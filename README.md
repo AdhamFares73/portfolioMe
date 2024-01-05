@@ -1,20 +1,19 @@
 
-# Portfolio
+# PortfolioME
 
-A brief description of what this project does and who it's for
+This repository contains the source code for a personal portfolio website. The website is designed to showcase your skills, projects, and provide information about you. It includes four main sections: Home, Services, Contact, and About me.
 
 
 ## Demo
-
+Check out the live demo of the portfolio project at
 https://portfolio-me-wheat.vercel.app/
 
 
 ## Features
 
 - Light/dark mode toggle
-- Live previews
+- Responsive
 - Fullscreen mode
-- Cross platform
 
 
 ## Run Project
@@ -22,31 +21,20 @@ https://portfolio-me-wheat.vercel.app/
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/AdhamFares73/portfolioMe
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
+  cd portfolioMe
 ```
 
 
-## Roadmap
+## Technologies Used
 
-- Additional browser support
-
-- Add more integrations
+- HTML
+- CSS
+- Javascript
+- Bootstrap
 
